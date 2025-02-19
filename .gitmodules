@@ -1,3 +1,4 @@
 [submodule "SDL"]
 	path = External/SDL
-	url = https://github.com/libsdl-org/SDL
+	url = https://github.com/Susko3/SDL
+	branch = map-absolute-mouse-to-pen
